@@ -1,0 +1,12 @@
+C:\Users\mohikuma\AppData\Local\Temporary Projects\WPFDemo\bin\Debug\WPFDemo.exe
+C:\Users\mohikuma\AppData\Local\Temporary Projects\WPFDemo\bin\Debug\WPFDemo.pdb
+C:\Users\mohikuma\AppData\Local\Temporary Projects\WPFDemo\obj\Debug\WPFDemo.csprojResolveAssemblyReference.cache
+C:\Users\mohikuma\AppData\Local\Temporary Projects\WPFDemo\obj\Debug\MainWindow.baml
+C:\Users\mohikuma\AppData\Local\Temporary Projects\WPFDemo\obj\Debug\MainWindow.g.cs
+C:\Users\mohikuma\AppData\Local\Temporary Projects\WPFDemo\obj\Debug\App.g.cs
+C:\Users\mohikuma\AppData\Local\Temporary Projects\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+C:\Users\mohikuma\AppData\Local\Temporary Projects\WPFDemo\obj\Debug\WPFDemo.g.resources
+C:\Users\mohikuma\AppData\Local\Temporary Projects\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+C:\Users\mohikuma\AppData\Local\Temporary Projects\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.Cache
+C:\Users\mohikuma\AppData\Local\Temporary Projects\WPFDemo\obj\Debug\WPFDemo.exe
+C:\Users\mohikuma\AppData\Local\Temporary Projects\WPFDemo\obj\Debug\WPFDemo.pdb
